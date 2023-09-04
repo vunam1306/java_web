@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+nav ul li {
+    color: white;   
+    list-style: none;
+}
+nav img {
+    width: auto;
+    height: 50px;
+}
